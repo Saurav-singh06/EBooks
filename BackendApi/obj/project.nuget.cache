@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "mJLUEnaABr3fhGwcLxpPTnY09QrYopRiE1wMgHxmfetQ7T8PcKBFmjwuQktKFjubM1kKFyzR7jAEFh9r1L8gzA==",
+  "success": true,
+  "projectFilePath": "d:\\DOTNET\\Dating Application\\BackendApi\\BackendApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.dotnet.watcher.tools\\2.0.2\\microsoft.dotnet.watcher.tools.2.0.2.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.app\\2.0.7\\microsoft.netcore.app.2.0.7.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.7\\microsoft.netcore.dotnetapphost.2.0.7.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.7\\microsoft.netcore.dotnethostpolicy.2.0.7.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.7\\microsoft.netcore.dotnethostresolver.2.0.7.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.2\\microsoft.netcore.platforms.2.0.2.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\netstandard.library\\2.0.1\\netstandard.library.2.0.1.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
